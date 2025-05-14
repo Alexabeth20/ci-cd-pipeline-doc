@@ -30,17 +30,19 @@ This documentation outlines how to:
 
 ## 📁 Folder Structure
 
+<pre>
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml           # CI/CD pipeline config
-├── madcap-html-export/          # Knowledge article HTML output (trial version)
+│       └── deploy.yml                 # CI/CD pipeline config
+├── madcap-html-export/                # Knowledge article HTML output (trial version)
 │   ├── index.html
 │   └── assets/
-├── markdown-version/            # Clean Markdown version of the article
+├── markdown-version/                  # Clean Markdown version of the article
 │   └── ci-cd-article.md
-├── screenshots/                 # Supporting visuals (optional)
+├── screenshots/                       # Supporting visuals (optional)
 ├── README.md
-└── requirements.txt             # Python dependencies
+└── requirements.txt                   # Python dependencies
+</pre>
 
 ---
 
