@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" DescendantCount="3">
+    <TocEntry Title="CI/CD Pipeline for AWS Lambda Using GitHub Actions (Python)" Link="/Content/Article.htm" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="0" />
+    <TocEntry Title="Release Notes" Link="/Content/Release-Notes.htm" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="System Requirements" Link="/Content/System-Requirements.htm" ComputedFirstTopic="false" DescendantCount="0" />
+</CatapultToc>

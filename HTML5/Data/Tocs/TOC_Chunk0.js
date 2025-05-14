@@ -1,0 +1,1 @@
+define({'/Content/Article.htm':{i:[0],t:['CI/CD Pipeline for AWS Lambda Using GitHub Actions (Python)'],b:['']},'/Content/Release-Notes.htm':{i:[1],t:['Release Notes'],b:['']},'/Content/System-Requirements.htm':{i:[2],t:['System Requirements'],b:['']}});
