@@ -4,7 +4,7 @@ This repository contains a technical documentation project that walks through se
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This documentation outlines how to:
 
@@ -17,7 +17,7 @@ This documentation outlines how to:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **GitHub Actions** – CI/CD automation platform
 - **AWS Lambda + API Gateway** – Serverless function host
@@ -28,7 +28,7 @@ This documentation outlines how to:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 <pre>
 ├── .github/
@@ -46,7 +46,7 @@ This documentation outlines how to:
 
 ---
 
-## ⚠️ Note on Flare Output
+## Note on Flare Output
 
 Due to limitations of the **MadCap Flare trial version**, the exported HTML may include scrambled or distorted characters.  
 
@@ -57,7 +57,7 @@ The clean, readable version of the documentation is provided in:
 
 ---
 
-## ✅ Portfolio Use Case
+## Portfolio Use Case
 
 This repository serves as a real-world example of:
 
@@ -67,14 +67,14 @@ This repository serves as a real-world example of:
 
 ---
 
-## 📎 Related Links
+## Related Links
 
 - [CI/CD Knowledge Article – Clean Markdown Version](#github-link-to-md)
 - [Portfolio Blog Post on This Project](#portfolio-link)
 
 ---
 
-## ✍️ Author
+## Author
 
 **Alexandra Mayer**  
 Technical Writer | Cloud Documentation Specialist | QA Enthusiast
