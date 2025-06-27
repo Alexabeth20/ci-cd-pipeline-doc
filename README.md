@@ -30,7 +30,7 @@ This documentation outlines how to:
 
 ## Folder Structure
 
-<pre>
+```
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml                 # CI/CD pipeline config
@@ -42,11 +42,10 @@ This documentation outlines how to:
 ├── screenshots/                       # Supporting visuals (optional)
 ├── README.md
 └── requirements.txt                   # Python dependencies
-</pre>
-
+```
 ---
 
-## Note on Flare Output
+## Limitations
 
 Due to limitations of the **MadCap Flare trial version**, the exported HTML may include scrambled or distorted characters.  
 
@@ -76,5 +75,11 @@ This repository serves as a real-world example of:
 
 ## Author
 
-**Alexandra Mayer**  
-Technical Writer | Cloud Documentation Specialist | QA Enthusiast
+**Alexandra Mayer**
+[Portfolio Site](https://alexabeth20.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexandra-mayer-626352354)
+
+---
+
+## License
+
+This repo is intended for demonstration and educational purposes only. All product names, logos, and brands are property of their respective owners.
