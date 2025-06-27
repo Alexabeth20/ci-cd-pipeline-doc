@@ -28,7 +28,7 @@ This documentation outlines how to:
 
 ---
 
-## Folder Structure
+## Repo Structure
 
 ```
 ├── .github/
